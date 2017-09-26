@@ -151,7 +151,15 @@ input,button{
 	width:100%;
 	height:100%;
 }
-.dq_li01 .dq_ul_t{
+.dq_ul li .dq_ul_t{
+	width:100%;
+	height:2rem;
+}
+.dq_ul_t img{
+	width: 2rem;
+	height: 2rem;
+}
+/*.dq_li01 .dq_ul_t{
 	width:100%;
 	height:2rem;
 	background:url(../images/gq01.png) center no-repeat;
@@ -198,7 +206,7 @@ input,button{
 	height:2rem;
 	background:url(../images/gq08.png) center no-repeat;
 	background-size:2rem 2rem;
-}
+}*/
 .dq_ul_b{
 	width:100%;
 	height:1.5rem;
